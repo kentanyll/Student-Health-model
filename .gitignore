@@ -2,3 +2,4 @@ src/__pycache__/
 probas/
 preds/
 plots/
+.venv/
