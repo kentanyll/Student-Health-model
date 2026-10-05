@@ -2,4 +2,6 @@ src/__pycache__/
 probas/
 preds/
 plots/
+df_FE_test.csv
+df_FE_train.csv
 .venv/
